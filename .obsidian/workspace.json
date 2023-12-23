@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "a2d89abb400d78d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b445b26e84b66f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b53b8ec72ffb0bac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d2d98a472526894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "windows/winget.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b155890c8852b68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e63f8e551e0a310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16cc9d2a049632ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf724f246a90da48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db120c93dd7da4e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f63b8c9ac2c2a336",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09d7f79c50c895ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aff90964b16190c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f0e98df0aa575c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02a3c8382c34b18a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "windows/winget.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c3ac5fa7af0b676",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "windows/winget.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bcd70844cff9711",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "61858c112595a435",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "windows/winget.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3d2d98a472526894",
+  "lastOpenFiles": [
+    "windows/openssl.md",
+    "windows/nuget.md",
+    "kestra/允许docker映射.md",
+    "kestra/1.md",
+    "lanproxy/url.md",
+    "py/镜像.md",
+    "react/react.md",
+    "react/imgs/生命周期旧.png",
+    "ruby/安装.md",
+    "rust/collections/binary_deap.md",
+    "rust/reference/str.md",
+    "rust/config.md",
+    "rust/rust安装.md",
+    "rust/jar_cache.md",
+    "rust/bits/bit.md",
+    "vmware/ubuntu/命令.md",
+    "vmware/ubuntu/网络与ip.md",
+    "ubuntu/1.md",
+    "ubuntu/apt.md",
+    "ubuntu/防火墙.md",
+    "vscode/remote_ssh.md",
+    "windows/winget.md",
+    "readme.md",
+    "vmware/ubuntu/clion_settings.md",
+    "aaaaaaa.md",
+    "未命名.md",
+    "AI/关键词.md",
+    "img/Pasted image 20231223214104.png",
+    "算法/dijkstra/2.png",
+    "算法/dijkstra/1.png",
+    "react/json/url.json",
+    "react/imgs/生命周期新.png",
+    "react/json",
+    "react/imgs",
+    "react",
+    "kestra/docker-compose.yml",
+    "kestra",
+    "高数",
+    "java/springboot",
+    "java/mybatis_plus/pom.xml",
+    "java/mybatis_plus/CodeGeneratorTest.java",
+    "操作系统/cpu/1.png",
+    "cpp/io/继承.png",
+    "cpp/imgs/remote.png",
+    "cpp/imgs/local.png",
+    "cpp/imgs/clion.png"
+  ]
+}
