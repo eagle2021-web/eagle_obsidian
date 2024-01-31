@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/winget.md",
+                "file": "rust/config.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,24 +31,16 @@
             "id": "b155890c8852b68b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "7e63f8e551e0a310",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -81,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#取消https代理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/winget.md",
+                "file": "rust/config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "windows/winget.md",
+                "file": "rust/config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,16 +150,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/winget.md"
+                "file": "rust/config.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,33 +173,37 @@
   },
   "active": "3d2d98a472526894",
   "lastOpenFiles": [
+    "rust/jar_cache.md",
+    "rust/rust安装.md",
+    "win10.md",
+    "git/QA.md",
+    "git/init.md",
+    "git/git.md",
+    "java/gradle/插件模板项目.md",
+    "java/gradle/settings.gradle.kts.md",
+    "java/gradle/安装.md",
+    "cpp/内存对齐.md",
+    "java/gradle",
+    "cpp/net_program/server.md",
+    "cpp/net_program/client.md",
+    "cpp/demos/计算pi.md",
+    "c/demos/计算pi.md",
+    "cpp/demos",
+    "c/demos",
+    "java/base/有界队列.md",
+    "java/base",
+    "AI/wetab.md",
+    "AI/关键词.md",
+    "AI/gpt网址.md",
+    "aaaaaaa.md",
+    "windows/winget.md",
     "windows/openssl.md",
     "windows/nuget.md",
     "kestra/允许docker映射.md",
     "kestra/1.md",
     "lanproxy/url.md",
     "py/镜像.md",
-    "react/react.md",
     "react/imgs/生命周期旧.png",
-    "ruby/安装.md",
-    "rust/collections/binary_deap.md",
-    "rust/reference/str.md",
-    "rust/config.md",
-    "rust/rust安装.md",
-    "rust/jar_cache.md",
-    "rust/bits/bit.md",
-    "vmware/ubuntu/命令.md",
-    "vmware/ubuntu/网络与ip.md",
-    "ubuntu/1.md",
-    "ubuntu/apt.md",
-    "ubuntu/防火墙.md",
-    "vscode/remote_ssh.md",
-    "windows/winget.md",
-    "readme.md",
-    "vmware/ubuntu/clion_settings.md",
-    "aaaaaaa.md",
-    "未命名.md",
-    "AI/关键词.md",
     "img/Pasted image 20231223214104.png",
     "算法/dijkstra/2.png",
     "算法/dijkstra/1.png",
@@ -218,10 +214,6 @@
     "react",
     "kestra/docker-compose.yml",
     "kestra",
-    "高数",
-    "java/springboot",
-    "java/mybatis_plus/pom.xml",
-    "java/mybatis_plus/CodeGeneratorTest.java",
     "操作系统/cpu/1.png",
     "cpp/io/继承.png",
     "cpp/imgs/remote.png",
