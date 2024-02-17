@@ -76,18 +76,44 @@
         </mirror>
     </mirrors>
 
-    <profiles>
-        <profile>
-            <id>jdk18</id>
-            <activation>
-                <jdk>1.8</jdk>
-                <activeByDefault>true</activeByDefault>
-            </activation>
-            <properties>
-                <maven.compiler.source>1.8</maven.compiler.source>
-                <maven.compiler.target>1.8</maven.compiler.target>
-                <maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
-            </properties>
-        </profile>
-    </profiles>
+        <profiles>
+            <profile>
+                <repositories>
+                    <repository>
+                        <!--远程仓库唯一标识 -->
+                        <id>codehausSnapshots</id>
+                        <!--远程仓库名称 -->
+                        <name>Codehaus Snapshots</name>
+                        <releases>
+                            <!--处理远程仓库里发布版本的下载,关闭发布版本的下载。 -->
+                            <enabled>false</enabled>
+                            <updatePolicy>always</updatePolicy>
+                            <checksumPolicy>warn</checksumPolicy>
+                        </releases>
+                        <snapshots>
+                            <!--处理远程仓库里快照版本的下载，开启快照版本的下载。 -->
+                            <enabled>true</enabled>
+                            <updatePolicy>never</updatePolicy>
+                            <checksumPolicy>fail</checksumPolicy>
+                        </snapshots>
+                        <url>http://snapshots.maven.codehaus.org/maven2</url>
+                        <layout>default</layout>
+                    </repository>
+                </repositories>
+                <pluginRepositories>
+                    <pluginRepository>
+                        <id>myPluginRepo</id>
+                        <name>My Plugins repo</name>
+                        <releases>
+                            <enabled>true</enabled>
+                        </releases>
+                        <snapshots>
+                            <enabled>false</enabled>
+                        </snapshots>
+                        <url>https://maven-central-eu....com/maven2/</url>
+                    </pluginRepository>
+                </pluginRepositories>
+            </profile>
+        </profiles>
+
 </settings>

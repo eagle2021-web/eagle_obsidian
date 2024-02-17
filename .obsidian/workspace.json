@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/config.md",
+                "file": "告诉/微分.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rust/config.md",
+                "file": "告诉/微分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rust/config.md",
+                "file": "告诉/微分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rust/config.md"
+                "file": "告诉/微分.md"
               }
             }
           }
@@ -163,25 +163,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "3d2d98a472526894",
   "lastOpenFiles": [
-    "rust/jar_cache.md",
-    "rust/rust安装.md",
-    "win10.md",
-    "git/QA.md",
-    "git/init.md",
-    "git/git.md",
+    "img/Pasted image 20240216221052.png",
+    "img/Pasted image 20240216211325.png",
+    "告诉/三角公式.md",
+    "告诉/微分.md",
+    "告诉/求导公式.md",
+    "img/Pasted image 20240216172721.png",
+    "img/Pasted image 20240216172706.png",
+    "img/Pasted image 20240216141410.png",
+    "img/Pasted image 20240216015554.png",
+    "img/Pasted image 20240216015544.png",
+    "img/Pasted image 20240216015450.png",
+    "img/Pasted image 20240216015414.png",
+    "告诉/符号读音.md",
+    "vmware/windows/安装win10.md",
+    "java/mvn/repo.md",
+    "vmware/windows",
+    "java/mvn/pom.md",
+    "java/base/有界队列.md",
+    "java/mvn/settings.xml~",
+    "java/gradle/安装.md",
     "java/gradle/插件模板项目.md",
     "java/gradle/settings.gradle.kts.md",
-    "java/gradle/安装.md",
+    "java/mvn/cyclonedx.pom.md",
+    "rust/config.md",
+    "rust/jar_cache.md",
+    "rust/rust安装.md",
+    "git/git.md",
+    "git/init.md",
+    "git/QA.md",
+    "win10.md",
     "cpp/内存对齐.md",
     "java/gradle",
     "cpp/net_program/server.md",
@@ -190,34 +211,13 @@
     "c/demos/计算pi.md",
     "cpp/demos",
     "c/demos",
-    "java/base/有界队列.md",
     "java/base",
     "AI/wetab.md",
-    "AI/关键词.md",
-    "AI/gpt网址.md",
-    "aaaaaaa.md",
-    "windows/winget.md",
-    "windows/openssl.md",
-    "windows/nuget.md",
-    "kestra/允许docker映射.md",
-    "kestra/1.md",
-    "lanproxy/url.md",
-    "py/镜像.md",
     "react/imgs/生命周期旧.png",
     "img/Pasted image 20231223214104.png",
-    "算法/dijkstra/2.png",
-    "算法/dijkstra/1.png",
     "react/json/url.json",
-    "react/imgs/生命周期新.png",
     "react/json",
     "react/imgs",
-    "react",
-    "kestra/docker-compose.yml",
-    "kestra",
-    "操作系统/cpu/1.png",
-    "cpp/io/继承.png",
-    "cpp/imgs/remote.png",
-    "cpp/imgs/local.png",
-    "cpp/imgs/clion.png"
+    "react"
   ]
 }
