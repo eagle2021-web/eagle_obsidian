@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "告诉/微分.md",
+                "file": "py/poetry/1.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "告诉/微分.md",
+                "file": "py/poetry/1.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "告诉/微分.md",
+                "file": "py/poetry/1.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "告诉/微分.md"
+                "file": "py/poetry/1.md.md"
               }
             }
           }
@@ -173,10 +173,12 @@
   },
   "active": "3d2d98a472526894",
   "lastOpenFiles": [
+    "告诉/微分.md",
+    "py/poetry/1.md.md",
+    "py/poetry",
     "img/Pasted image 20240216221052.png",
     "img/Pasted image 20240216211325.png",
     "告诉/三角公式.md",
-    "告诉/微分.md",
     "告诉/求导公式.md",
     "img/Pasted image 20240216172721.png",
     "img/Pasted image 20240216172706.png",
@@ -214,10 +216,8 @@
     "java/base",
     "AI/wetab.md",
     "react/imgs/生命周期旧.png",
-    "img/Pasted image 20231223214104.png",
     "react/json/url.json",
     "react/json",
-    "react/imgs",
-    "react"
+    "react/imgs"
   ]
 }
