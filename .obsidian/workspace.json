@@ -21,7 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/poetry/1.md.md",
+                "file": "dotnet/xaml.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e9693b5261bf842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/test/junit5/@Execution(ExecutionMode.CONCURRENT).md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 435.5
   },
   "right": {
     "id": "aff90964b16190c6",
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "py/poetry/1.md.md",
+                "file": "java/test/junit5/@Execution(ExecutionMode.CONCURRENT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "py/poetry/1.md.md",
+                "file": "java/test/junit5/@Execution(ExecutionMode.CONCURRENT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "py/poetry/1.md.md"
+                "file": "java/test/junit5/@Execution(ExecutionMode.CONCURRENT).md"
               }
             }
           }
@@ -163,23 +175,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "3d2d98a472526894",
+  "active": "8e9693b5261bf842",
   "lastOpenFiles": [
-    "告诉/微分.md",
+    "java/test/junit5/@ResourceLock.md",
+    "java/test/junit5/@Execution(ExecutionMode.CONCURRENT).md",
+    "img/Pasted image 20231223200539.png",
+    "java/test/junit5",
+    "java/test",
+    "AI/gpt网址.md",
+    "dotnet/xaml.md",
+    "dotnet",
+    "AI/关键词.md",
+    "告诉/对数.md",
+    "告诉/三角公式.md",
+    "告诉/求导公式.md",
+    "告诉/符号读音.md",
+    "win10.md",
+    "README.md",
+    "aaaaaaa.md",
     "py/poetry/1.md.md",
+    "告诉/微分.md",
     "py/poetry",
     "img/Pasted image 20240216221052.png",
     "img/Pasted image 20240216211325.png",
-    "告诉/三角公式.md",
-    "告诉/求导公式.md",
     "img/Pasted image 20240216172721.png",
     "img/Pasted image 20240216172706.png",
     "img/Pasted image 20240216141410.png",
@@ -187,7 +213,6 @@
     "img/Pasted image 20240216015544.png",
     "img/Pasted image 20240216015450.png",
     "img/Pasted image 20240216015414.png",
-    "告诉/符号读音.md",
     "vmware/windows/安装win10.md",
     "java/mvn/repo.md",
     "vmware/windows",
@@ -202,22 +227,9 @@
     "rust/jar_cache.md",
     "rust/rust安装.md",
     "git/git.md",
-    "git/init.md",
-    "git/QA.md",
-    "win10.md",
-    "cpp/内存对齐.md",
     "java/gradle",
-    "cpp/net_program/server.md",
-    "cpp/net_program/client.md",
-    "cpp/demos/计算pi.md",
-    "c/demos/计算pi.md",
     "cpp/demos",
     "c/demos",
-    "java/base",
-    "AI/wetab.md",
-    "react/imgs/生命周期旧.png",
-    "react/json/url.json",
-    "react/json",
-    "react/imgs"
+    "java/base"
   ]
 }
