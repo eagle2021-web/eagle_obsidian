@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/test/junit5/@Execution(ExecutionMode.CONCURRENT).md",
+                "file": "java/plugin/1.java.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/test/junit5/@Execution(ExecutionMode.CONCURRENT).md",
+                "file": "java/plugin/1.java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/test/junit5/@Execution(ExecutionMode.CONCURRENT).md",
+                "file": "java/plugin/1.java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/test/junit5/@Execution(ExecutionMode.CONCURRENT).md"
+                "file": "java/plugin/1.java.md"
               }
             }
           }
@@ -185,8 +185,10 @@
   },
   "active": "8e9693b5261bf842",
   "lastOpenFiles": [
-    "java/test/junit5/@ResourceLock.md",
     "java/test/junit5/@Execution(ExecutionMode.CONCURRENT).md",
+    "java/plugin/1.java.md",
+    "java/plugin",
+    "java/test/junit5/@ResourceLock.md",
     "img/Pasted image 20231223200539.png",
     "java/test/junit5",
     "java/test",
@@ -226,10 +228,8 @@
     "rust/config.md",
     "rust/jar_cache.md",
     "rust/rust安装.md",
-    "git/git.md",
     "java/gradle",
     "cpp/demos",
-    "c/demos",
-    "java/base"
+    "c/demos"
   ]
 }
