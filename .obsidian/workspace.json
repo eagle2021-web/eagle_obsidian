@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/plugin/1.java.md",
+                "file": "java/mvn/pom.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/plugin/1.java.md",
+                "file": "java/mvn/pom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/plugin/1.java.md",
+                "file": "java/mvn/pom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/plugin/1.java.md"
+                "file": "java/mvn/pom.md"
               }
             }
           }
@@ -185,8 +185,8 @@
   },
   "active": "8e9693b5261bf842",
   "lastOpenFiles": [
-    "java/test/junit5/@Execution(ExecutionMode.CONCURRENT).md",
     "java/plugin/1.java.md",
+    "java/test/junit5/@Execution(ExecutionMode.CONCURRENT).md",
     "java/plugin",
     "java/test/junit5/@ResourceLock.md",
     "img/Pasted image 20231223200539.png",

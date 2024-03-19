@@ -180,4 +180,13 @@
     </build>
 ```
 
+```xml
+<build>  
+    <testResources>        <testResource>            <directory>src/test/resources</directory>  
+            <includes>                <include>**/*.xml</include> <!-- 包含所有xml文件 -->  
+                <include>**/*.properties</include> <!-- 包含所有properties文件 -->  
+                <include>**/*.json</include> <!-- 包含所有properties文件 -->  
+            </includes>  
+        </testResource>    </testResources></build>
+```
 
